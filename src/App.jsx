@@ -60,7 +60,7 @@ function App() {
             <PostGrid posts={visible} />
             <Pagination page={page} totalPages={totalPages} onChange={handlePage} />
         </main>
-        <footer>&copy; 2026 DearDiary</footer>
+        <footer>&copy; 2026 DearDiary | Mahmuda Adeeba Tul Husna</footer>
         </>
     );
     }
