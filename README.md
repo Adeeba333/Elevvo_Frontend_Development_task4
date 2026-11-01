@@ -63,6 +63,7 @@ elevvo_frontend_development_task4
 │   ├── App.jsx
 │   └── main.jsx
 |
+├── package-lock.json
 ├── package.json
 ├── eslint.config.js
 ├── index.html
